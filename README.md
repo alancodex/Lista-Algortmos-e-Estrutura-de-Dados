@@ -31,6 +31,9 @@ Os exercícios foram divididos em três grandes blocos.
 
 | # | Título | Conceito Principal |
 | :-: | :--- | :--- |
+| **1** | Criando uma Estrutura Simples | Definição básica de `struct` e entrada/saída de dados |
+| **2** | Vetor de Structs | Uso de array de `structs` e cálculo de média |
+| **3** | Structs e Funções | Passagem de `struct` como parâmetro para formatação de dados |
 | **4** | Structs e Ponteiros | Alocação dinâmica de `struct` (`malloc`, `free`) |
 | **5** | Registro de Funcionários | Vetor de `structs` (Gestão de Dados) |
 | **6** | Cadastro de Livros | Filtragem de dados em vetor de `structs` |
